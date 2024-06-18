@@ -1,4 +1,4 @@
-# Anushka Verma's Portfolio
+# Portfolio
 
 [Blog](blog.md)
 
